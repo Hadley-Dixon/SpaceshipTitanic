@@ -1,7 +1,6 @@
 # SpaceshipTitanic
- BSDS200 Homework 7
 
-## Assignment Description
+## Project Description
 
 Competition in the Spaceship Titanic contest on Kaggle.
 
